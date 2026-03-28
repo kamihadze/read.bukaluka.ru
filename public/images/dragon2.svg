@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    id="svg2"
+    viewBox="0 0 1489.1 1053.3"
+    sodipodi:docname="_svgclean2.svg"
+    version="1.1"
+    inkscape:version="0.48.3.1 r9886"
+  >
+  <defs
+      id="defs4"
+    >
+    <pattern
+        id="pattern5607"
+        xlink:href="#oldpaint_bitmap"
+        patternTransform="translate(-66)"
+        inkscape:collect="always"
+    />
+    <pattern
+        id="oldpaint_bitmap"
+        height="256"
+        width="256"
+        patternUnits="userSpaceOnUse"
+        inkscape:stockid="Old paint (bitmap)"
+        inkscape:collect="always"
+      >
+      <!-- Seamless texture provided by FreeSeamlessTextures.com -->
+      <!-- License: creative commons attribution -->
+    </pattern
+    >
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="0"
+      inkscape:snap-page="false"
+      pagecolor="#ffffff"
+      inkscape:window-height="452"
+      inkscape:window-maximized="0"
+      inkscape:zoom="0.2830737"
+      inkscape:window-x="0"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer2"
+      inkscape:cx="748.43359"
+      inkscape:cy="383.1028"
+      inkscape:snap-grids="false"
+      inkscape:window-width="512"
+      inkscape:snap-to-guides="false"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer2"
+      inkscape:label="background"
+      inkscape:groupmode="layer"
+      transform="translate(4.3391 2.6723)"
+    >
+    <rect
+        id="rect3870"
+        style="stroke:#000000;stroke-width:0.9;fill:#eeffaa"
+        inkscape:export-ydpi="181.81"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        height="1052.4"
+        width="1488.2"
+        inkscape:export-xdpi="181.81"
+        y="-2.2223"
+        x="-3.8891"
+    />
+    <path
+        id="rect3117"
+        style="opacity:0.56;stroke:#000000;stroke-width:.43451;fill:#800000"
+        d="m-4.1219 741.16c371.11-154.6 1217.9 75.07 1488.6-18v327.22h-1488.7z"
+        inkscape:export-ydpi="181"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181"
+    />
+    <path
+        id="path4006"
+        style="stroke:#000000;stroke-width:0.9;fill:#a9a9a9"
+        d="m821.14 776.13c0 126.97-119.38 151.36-257.31 151.36s-518.41 17.238-518.41-124.87 350.21-329.21 488.14-329.21 287.59 153.04 287.59 302.72z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        transform="matrix(.67760 0 0 .67760 541.84 266.94)"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3822"
+        style="stroke:#000000;stroke-width:0.9;fill:#808080"
+        d="m530.34 477.44c-46.549 1.9106-91.403 16.813-134.72 33.031-80.829 31.724-158.01 73.968-226.95 126.57-39.788 31.232-78.743 66.34-103.52 110.8-13.397 24.605-22.015 55.44-10.031 82.281 12.38 27.054 40.003 43.059 66.312 54.031 52.968 21.099 110.31 28.473 166.77 33.792 101.14 8.6927 202.76 5.9772 304.14 5.1498 51.669-1.8601 104.99-6.2057 152.31-28.317 29.984-13.845 55.577-38.908 65.441-70.855 12.55-40.05 7-83.84-5.21-123.3-23.84-72.9-74.06-135.91-137.56-178.57-40.47-26.76-87.97-45.4-136.98-44.61z"
+        inkscape:export-ydpi="181.81"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        transform="matrix(.30234 0 0 .30234 690.34 611.17)"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3826"
+        style="stroke:#000000;stroke-width:0.9;fill:#c0c0c0"
+        d="m530.34 477.44c-46.549 1.9106-91.403 16.813-134.72 33.031-163.65 155.23-191.96 416.01 196.72 412.63 51.669-1.8601 104.99-6.2057 152.31-28.317 29.984-13.845 55.577-38.908 65.441-70.855 12.55-40.05 7-83.84-5.21-123.3-23.84-72.9-74.06-135.91-137.56-178.57-40.47-26.76-87.97-45.4-136.98-44.61z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccccccc"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        transform="matrix(.22755 0 0 .22755 893.02 647.68)"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3802"
+        style="stroke:#000000;stroke-width:.67760px;fill:#986601"
+        d="m536.71 841.56c-243.13 43.905 350.71 88.892 407.69 76.922 54.611-11.473 260.78-54.685 141.02-71.794 50.73 55.23-358.34 116.44-548.71-5.1281z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cscc"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        transform="translate(0 .000022303)"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4143"
+        style="stroke:#000000;stroke-width:1.2036px;fill:#980101"
+        d="m155.89 897.52c-505.2 113.72 527.96 163.73 750.13 80.669 96.98-20.481 463.21-97.133 250.49-127.52 90.108 98.102-662.47 262.78-1000.6 46.853z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        transform="translate(0 .000022303)"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+  </g
+  >
+  <g
+      id="layer1"
+      style="display:none"
+      inkscape:label="Dragon"
+      transform="translate(4.3391 2.6724)"
+      inkscape:groupmode="layer"
+      sodipodi:insensitive="true"
+    >
+    <path
+        id="path4073"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m1134.7 437.12c8.1709 16.895 14.213 17.157 16.741 36.419l8.8984-4.5628c0.2394-16.873-16.347-21.768-25.64-31.856z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4066"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m1097.7 453.88c16.003 9.802 21.229 6.7584 33.764 21.601l5.0227-8.6471c-8.9144-14.327-25.517-9.4857-38.786-12.954z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3795"
+        style="stroke:#000000;stroke-width:.67760px;fill:#d9bb7a"
+        d="m944.24 512.63c-40.83-129.01-144.54-234.9-288.29-310.1-2.8776-1.5053 67.935 54.993 16.821 81.339 43.804-5.1778 90.385 36.263 69.085 66.363 11.332-10.327 86.737 18.855 58.771 62.04 50.366-15.43 77.963 45.931 58.499 62.219 10.299-7.5345 69.218 17.764 68.298 43.783z"
+        inkscape:transform-center-x="141.4737"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccccccc"
+        inkscape:transform-center-y="-161.86649"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3793"
+        style="stroke:#000000;stroke-width:1.0929;fill:#d9bb7a"
+        d="m725.27 648.29c-14.342 5.1868-36.635 20.792-42.632 33.548 20.172-18.627 54.453-27.112 52.816-22.869-22.703 17.88-36.265 35.286-31.082 30.942 13.336-14.626 56.653-38.669 99.024-39.018 10.095-0.0831 2.5266-14.542-2.2477-19.406 6.6632-21.289 9.8486-32.286 1.0918-54.377-10.939-18.418-78.93-93.412-108.55-72.125-24.022 29.852 58.148 120.69 71.568 112.22z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="ccccsccccc"
+        inkscape:transform-center-y="104.24636"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+        inkscape:transform-center-x="-15.097495"
+    />
+    <path
+        id="path4125"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m987.29 486.68c-4.0692 11.634-1.3896 14.566-9.1766 24.674 0.77301 3.5273 3.0015 3.8843 6.2484 2.0231 7.9589-7.7124 2.5447-17.698 2.9282-26.697z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4127"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m1007.3 490.68c-4.0692 11.634-1.3896 14.566-9.1766 24.674 0.7731 3.5273 3.0015 3.8843 6.2485 2.0231 7.9588-7.7124 2.5447-17.698 2.9281-26.697z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4129"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m1027.3 502.68c-4.0692 11.634-1.3896 14.566-9.1766 24.674 0.7731 3.5273 3.0015 3.8843 6.2485 2.0231 7.9588-7.7124 2.5447-17.698 2.9281-26.697z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4131"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m1047.3 510.68c-4.0692 11.634-1.3896 14.566-9.1766 24.674 0.7731 3.5273 3.0015 3.8843 6.2485 2.0231 7.9588-7.7124 2.5447-17.698 2.9281-26.697z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4123"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m971.29 478.68c-4.0692 11.634-1.3896 14.566-9.1766 24.674 0.77301 3.5273 3.0015 3.8843 6.2484 2.0231 7.9589-7.7124 2.5447-17.698 2.9282-26.697z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4133"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m1067.3 514.68c-4.0692 11.634-1.3896 14.566-9.1766 24.674 0.7731 3.5273 3.0015 3.8843 6.2485 2.0231 7.9588-7.7124 2.5447-17.698 2.9281-26.697z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4135"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m1084 518.55c2.097 12.146 5.8637 13.406 3.9695 26.024 2.3897 2.7072 4.5108 1.9364 6.4442-1.2681 3.2084-10.608-6.3756-16.704-10.414-24.756z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4137"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m1104 514.55c2.097 12.146 5.8637 13.406 3.9695 26.024 2.3897 2.7072 4.5108 1.9364 6.4442-1.2681 3.2084-10.608-6.3756-16.704-10.414-24.756z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4139"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m1112.8 508.74c9.0353 8.3834 12.794 7.1004 18.943 18.28 3.5421 0.70243 4.7607-1.1971 4.3537-4.9175-3.8848-10.379-15.202-9.4115-23.297-13.363z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4141"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m1113.7 495.85c12.022 2.7207 14.63-0.27476 25.557 6.3132 3.4166-1.169 3.5181-3.4235 1.2999-6.4379-8.5669-7.0309-17.872-0.51708-26.857 0.12471z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path2989"
+        style="stroke:#000000;stroke-width:.67760;fill:#d9bb7a"
+        d="m785.92 638.66c-22.22 27.904-85.337 32.33-113.67 33.693-66.606 3.2057-129.58-41.095-197.66-28.452-54.278 10.08-78.565 68.438-125.66 89.957-37.877 15.003-128.12 30.015-199.69 29.419 43.299 0.18831 159.89-20.052 198.54-36.398 47.688-20.171 68.54-82.329 122.43-94.305 67.594-15.021 132.08 27.046 198.54 21.508 27.887-2.324 55.354-10.774 77.611-26.579 48.427-47.991 40.991-73.45 86.895-114.32 88.088-71.319 205.86 47.893 284.34 14.697 18.844-4.6146 18.232-44.151 16.994-45.744 0.088-14.882 26.329-25.259 29.027-7.7741-0.3249 3.9019 2.752 14.396 9.0662 18.105 10.181 6.4345 58.344 6.8315 53.632 0.37029 1.4249-17.51-25.613-28.244-25.798-30.512 2.7806-2.2351 38.171 10.474 42.523 29.216 28.777-2.0349 18.685 30.326 13.565 41.754-12.943-27.909-30.04-26.754-42.652-13.021-9.1026 17.037-42.988 8.0897-49.639-4.9546 4.9479 6.8171-15.217 25.215-33.745 33.71 6.0801-1.7702 23.024-22.586 21.711-32.494-0.225-1.6972-22.636 27.636-49.442 42.952-36.353 12.674-77.573 12.37-101.06 3.8576-58.464 69.696-159.09 45.793-215.85 75.313z"
+        inkscape:export-ydpi="181.81"
+        inkscape:transform-center-x="-308.44927"
+        inkscape:transform-center-y="-62.684804"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+        sodipodi:nodetypes="cssccsssccccccccccccccccc"
+    />
+    <path
+        id="path3772"
+        style="stroke:#000000;stroke-width:.44523;fill:#ffffff"
+        d="m1159.2 453.04c-5.0273 0-9.3634 3.5158-11.308 8.5547-2.1109-1.9535-4.7663-3.1339-7.6653-3.1339-6.8448 0-12.409 6.5079-12.409 14.526s5.5638 14.526 12.409 14.526c5.0272 0 9.3422-3.5158 11.286-8.5547 2.1106 1.9522 4.7886 3.1339 7.6866 3.1339 6.8447 0 12.387-6.5079 12.387-14.526s-5.5426-14.526-12.387-14.526z"
+        inkscape:export-ydpi="181.81"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4053"
+        sodipodi:rx="2.0543792"
+        sodipodi:ry="2.1827779"
+        style="stroke:#000000;stroke-width:0.9;fill:#000000"
+        sodipodi:type="arc"
+        d="m1137.6 435.79c0 1.2055-0.9198 2.1828-2.0544 2.1828s-2.0544-0.97726-2.0544-2.1828 0.9198-2.1828 2.0544-2.1828 2.0544 0.97726 2.0544 2.1828z"
+        inkscape:export-ydpi="181.81"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        transform="matrix(1.5882 0 0 1.5882 -639.55 -223.46)"
+        sodipodi:cy="435.79166"
+        sodipodi:cx="1135.5581"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3778"
+        style="stroke:#000000;stroke-width:.44523;fill:#d9bb7a"
+        d="m1171.8 467.55s-5.9882 1.0177-12.833 1.0177-7.8453-0.0615-11.954-1.0177c0-8.0181 5.5487-14.518 12.394-14.518 6.8447 0 11.682 6.5316 12.394 14.518z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="sscss"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4055"
+        sodipodi:rx="2.0543792"
+        sodipodi:ry="2.1827779"
+        style="stroke:#000000;stroke-width:0.9;fill:#000000"
+        sodipodi:type="arc"
+        d="m1137.6 435.79c0 1.2055-0.9198 2.1828-2.0544 2.1828s-2.0544-0.97726-2.0544-2.1828 0.9198-2.1828 2.0544-2.1828 2.0544 0.97726 2.0544 2.1828z"
+        inkscape:export-ydpi="181.81"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        transform="matrix(1.5882 0 0 1.5882 -657.66 -218.96)"
+        sodipodi:cy="435.79166"
+        sodipodi:cx="1135.5581"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3776"
+        style="stroke:#000000;stroke-width:.44523;fill:#d9bb7a"
+        d="m1152.2 469.01c-2.0352 7.5538-20.641 4.5164-24.382 3.9714 0.15-8.0167 5.5605-14.118 12.394-14.518 7.9273-0.46394 13.298 9.9854 11.988 10.547z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="ccsc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3797"
+        style="stroke:#000000;stroke-width:.67760px;fill:#d9bb7a"
+        d="m1001.8 528.72c27.601-120.58 143.42-234.17 286.79-310.09 2.87-1.5196-75.761 54.993-51.961 96.981-40.012-38.073-62.759 20.816-68.753 66.706-10.031-42.675-62.371 1.6351-58.461 62.332-14.929-49.405-68.65 3.6865-58.188 62.51-10.336-7.483-33.583 2.5494-32.534 28.564l-17.64 24.284c-2.3053-10.663-13.402-22.127 0.7447-31.291z"
+        inkscape:transform-center-x="-147.80006"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="ccccccccc"
+        inkscape:transform-center-y="-149.57571"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3787"
+        style="stroke:#000000;stroke-width:.67760;fill:#d9bb7a"
+        d="m994.74 613.98c17.472 9.3782 31.102 36.08 29.422 34.329-7.1891-12.287-26.597-31.997-26.611-28.376 5.1887 7.9049 10.45 23.935 8.6843 32.494-3.0853-16.741-16.943-33.694-17.707-30.98 4.6191 17.311 4.8788 30.989 3.9216 26.907-1.1809-12.215-7.6564-33.697-28.552-49.62-4.9784-3.7937 7.7303-5.5832 8.1647-6.2219 2.6852-48.181 72.564-88.176 62.891-32.302-4.1715 24.097-35.176 30.193-40.792 53.494z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="ccccccscscc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4121"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m936.5 464.49c2.1856 17.03 7.3518 19.011 3.9543 36.458 3.1624 3.9119 6.1609 2.967 9.045-1.376 5.1051-14.57-7.8652-23.632-12.999-35.082z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3791"
+        style="stroke:#000000;stroke-width:1.0929;fill:#d9bb7a"
+        d="m880.78 656.47c15.602 3.0168 65.521 61.66 63.066 60.979-15.705-16.75-53.284-40.799-52.009-35.099 10.99 10.574 25.003 33.901 25.291 47.993-10.846-25.224-38.708-46.925-38.939-42.383 13.462 25.571 18.767 46.99 15.8 40.912-6.2303-18.788-36.014-58.376-74.576-75.937-9.1877-4.184 3.6099-14.312 9.9502-16.812 6.1326-12.006 13.779-11.545 17.663-19.136-1.8232-31.425 141.15-156.22 130.11-43.38-38.674 56.628-93.679 47.437-98.889 70.538-5.1767 6.8062-0.8701 9.3635 2.5342 12.325z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="ccccccsccccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4057"
+        style="stroke:#000000;stroke-width:1px;fill:none"
+        d="m1162.2 504.47c14.385 34.812 58.61-7.4447 78.767 9.6528"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        transform="translate(0 -.000022303)"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4059"
+        style="stroke:#000000;stroke-width:0.68;fill:#d9bb7a"
+        d="m1225.9 495.98c-4.5198-8.2489 0.6902-12.528 7.7222-14.286 9.1019-1.251 7.9184 3.1849 9.2667 8.1083 3.9038-11.24 27.56-18.282 13.128 3.8611"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        transform="translate(0 -.000022303)"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4061"
+        style="stroke:#000000;stroke-width:.52545;fill:#000000"
+        d="m1259.1 484.4c0 2.5541-4.5583 8.8718-6.3709 8.8718-1.8125 0-5.9847-0.91216-5.9847-3.4662 0-2.5541 5.3305-7.7134 7.143-7.7134 1.8126 0 5.2126-0.24618 5.2126 2.3079z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="sssss"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4064"
+        style="stroke:#000000;stroke-width:.52545;fill:#000000"
+        d="m1239.8 490.58c0 2.5541-1.4694 4.6246-3.282 4.6246-1.8125 0-8.987-0.28863-9.8458-2.694-2.2516-6.3068 4.69-8.781 7.143-7.7134 1.6621 0.7233 5.9848 3.2288 5.9848 5.7829z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="sssss"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4075"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m778 549.84c11.064 6.7767 14.677 4.6725 23.343 14.934 5.8266-0.65871 6.3816-2.8236 3.4725-5.9782-6.163-9.9054-17.641-6.558-26.815-8.9561z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4077"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m784.7 527.06c13.122 8.0372 17.407 5.5416 27.685 17.712 7.6324-2.3634 4.9431-4.7268 4.1184-7.0903-7.3094-11.748-20.923-7.7779-31.803-10.622z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4079"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m800.7 511.06c13.122 8.0372 17.407 5.5416 27.685 17.712 6.7584-1.4658 6.1527-4.159 4.1184-7.0903-7.3094-11.748-20.923-7.7779-31.803-10.622z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4081"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m812.7 499.06c13.122 8.0372 17.407 5.5416 27.685 17.712 4.5082-0.0119 5.5322-2.6369 4.1184-7.0903-7.3094-11.748-20.923-7.7779-31.803-10.622z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4083"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m769.19 567.5c9.8293 6.0204 13.039 4.151 20.738 13.268 5.1764-0.58519 5.6694-2.5085 3.0849-5.311-5.4752-8.7999-15.673-5.8261-23.823-7.9565z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4085"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m757.19 583.5c9.8293 6.0204 13.039 4.151 20.738 13.268 5.1764-0.58519 5.6694-2.5085 3.0849-5.311-5.4752-8.7999-15.673-5.8261-23.823-7.9565z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4087"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m749.43 601.73c8.1829 5.012 10.855 3.4557 17.264 11.045 4.3093-0.48717 4.7197-2.0883 2.5682-4.4214-4.5581-7.3259-13.047-4.8502-19.832-6.6238z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4089"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m737.43 613.73c8.1829 5.012 10.855 3.4557 17.264 11.045 4.3093-0.48717 4.7197-2.0883 2.5682-4.4214-4.5581-7.3259-13.047-4.8502-19.832-6.6238z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4091"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m716.12 633.17c6.5364 4.0035 8.671 2.7604 13.79 8.8229 3.4423-0.38915 3.7701-1.6681 2.0515-3.5318-3.641-5.8519-10.422-3.8743-15.842-5.291z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4093"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m725.43 624.62c8.1829 5.012 10.855 3.4557 17.264 11.045 4.3093-0.48717 4.7197-2.0883 2.5682-4.4214-4.5581-7.3259-13.047-4.8502-19.832-6.6238z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4095"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m704.12 637.17c6.5364 4.0035 8.671 2.7604 13.79 8.8229 3.4423-0.38915 3.7701-1.6681 2.0515-3.5318-3.641-5.8519-10.422-3.8743-15.842-5.291z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4097"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m692.12 641.17c6.5364 4.0035 8.671 2.7604 13.79 8.8229 3.4423-0.38915 3.7701-1.6681 2.0515-3.5318-3.641-5.8519-10.422-3.8743-15.842-5.291z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4099"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m680.12 645.17c6.5364 4.0035 8.671 2.7604 13.79 8.8229 3.4423-0.38915 3.7701-1.6681 2.0515-3.5318-3.641-5.8519-10.422-3.8743-15.842-5.291z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4101"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m671.99 645.14c4.3666 4.663 6.3567 4.1363 9.1293 10.14 2.8521 0.44884 3.3984-0.50633 2.4298-2.3841-1.631-5.5077-7.5174-5.4188-11.559-7.7562z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4103"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m661.1 646.25c4.3666 4.663 6.3567 4.1363 9.1293 10.14 2.8521 0.44884 3.3984-0.50633 2.4298-2.3841-1.631-5.5077-7.5174-5.4188-11.559-7.7562z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4105"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m654.23 647.16c2.5284 4.608 4.2221 4.5945 5.2063 9.9458 2.1816 0.93996 2.812 0.2902 2.4233-1.4042-0.17567-4.7228-4.8855-5.8536-7.6296-8.5416z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4107"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m642.23 647.16c2.5284 4.608 4.2221 4.5945 5.2063 9.9458 2.1816 0.93996 2.812 0.2902 2.4233-1.4042-0.17567-4.7228-4.8855-5.8536-7.6296-8.5416z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4109"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m629.67 646.6c2.5284 4.608 4.2221 4.5945 5.2063 9.9458 2.1816 0.93996 2.812 0.2902 2.4233-1.4042-0.17567-4.7228-4.8855-5.8536-7.6296-8.5416z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4111"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m616.34 643.27c2.5284 4.608 4.2221 4.5945 5.2063 9.9458 2.1816 0.93996 2.812 0.2902 2.4233-1.4042-0.17567-4.7228-4.8855-5.8536-7.6296-8.5416z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4113"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m603.56 639.94c2.5284 4.608 4.2221 4.5945 5.2063 9.9458 2.1816 0.93996 2.812 0.2902 2.4233-1.4042-0.17567-4.7228-4.8855-5.8536-7.6296-8.5416z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4115"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m822.84 471.01c17.69 14.672 24.556 11.894 37.162 32.072 6.6672 0.94096 8.7392-2.7219 7.5961-9.6062-8.308-18.922-29.278-15.947-44.758-22.465z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4117"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m862.94 451.48c10.537 20.425 17.942 20.555 21.646 44.057 5.7672 3.4752 9.1074 0.91541 10.75-5.8671-0.23999-20.664-20.701-26.134-32.396-38.19z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path4119"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m908.5 456.49c2.1856 17.03 7.3518 19.011 3.9543 36.458 3.1624 3.9119 6.1609 2.967 9.045-1.376 5.1051-14.57-7.8652-23.632-12.999-35.082z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Users\Redcat\Desktop\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+  </g
+  >
+  <g
+      id="layer3"
+      inkscape:label="Móvil"
+      inkscape:groupmode="layer"
+      transform="translate(4.3391 2.6723)"
+    >
+    <path
+        id="path3101"
+        style="stroke:#000000;stroke-width:.67760;fill:#d9bb7a"
+        d="m1132.9 510.72c3.6101-12.419 3.0967-26.654 2.3641-27.596 0.088-14.882 26.329-25.259 29.027-7.7741-0.3249 3.9019 2.752 14.396 9.0662 18.105 10.181 6.4345 58.344 6.8315 53.632 0.37029 1.4249-17.51-25.613-28.244-25.798-30.512 2.7806-2.2351 38.171 10.474 42.523 29.216 28.777-2.0349 18.685 30.326 13.565 41.754-12.943-27.909-30.04-26.754-42.652-13.021-9.1026 17.037-42.988 8.0897-49.639-4.9546-0.8136 13.236-24.71 28.536-33.432 32.53-1.0917-1.9853 12.296-3.8535 21.398-31.313-0.066-0.49787-2.0414 1.6747-5.477 5.3805"
+        inkscape:export-ydpi="181.81"
+        inkscape:transform-center-x="-308.44927"
+        inkscape:transform-center-y="-62.684804"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+        sodipodi:nodetypes="ccccccccccccc"
+    />
+    <path
+        id="path3105"
+        style="stroke:#000000;stroke-width:0.68;fill:#d9bb7a"
+        d="m1225.8 496.28c-4.5198-8.2489 0.6902-12.528 7.7222-14.286 9.1019-1.251 7.9184 3.1849 9.2667 8.1083 3.9038-11.24 27.56-18.282 13.128 3.8611"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path5545"
+        style="opacity:.31390;stroke:#000000;stroke-width:0.68;fill:url(#pattern5607)"
+        d="m1225.8 496.28c-4.5198-8.2489 0.6902-12.528 7.7222-14.286 9.1019-1.251 7.9184 3.1849 9.2667 8.1083 3.9038-11.24 27.56-18.282 13.128 3.8611"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3107"
+        style="stroke:#000000;stroke-width:.52545;fill:#000000"
+        d="m1259 484.71c0 2.5541-4.5583 8.8718-6.3709 8.8718-1.8125 0-5.9847-0.91216-5.9847-3.4662 0-2.5541 5.3305-7.7134 7.143-7.7134 1.8126 0 5.2126-0.24618 5.2126 2.3079z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="sssss"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3109"
+        style="stroke:#000000;stroke-width:.52545;fill:#000000"
+        d="m1239.7 490.89c0 2.5541-1.4694 4.6246-3.282 4.6246-1.8125 0-8.987-0.28863-9.8458-2.694-2.2516-6.3068 4.69-8.781 7.143-7.7134 1.6621 0.7233 5.9848 3.2288 5.9848 5.7829z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="sssss"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3111"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m1134.5 437.42c8.1709 16.895 14.213 17.157 16.741 36.419l8.8984-4.5628c0.2394-16.873-16.347-21.768-25.64-31.856z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3113"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m1097.6 454.19c16.003 9.802 21.229 6.7584 33.764 21.601l5.0227-8.6471c-8.9144-14.327-25.517-9.4857-38.786-12.954z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cccc"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3115"
+        style="stroke:#000000;stroke-width:.44523;fill:#ffffff"
+        d="m1159 453.34c-5.0273 0-9.3634 3.5158-11.308 8.5547-2.1109-1.9535-4.7663-3.1339-7.6653-3.1339-6.8448 0-12.409 6.5079-12.409 14.526s5.5638 14.526 12.409 14.526c5.0272 0 9.3422-3.5158 11.286-8.5547 2.1106 1.9522 4.7886 3.1339 7.6866 3.1339 6.8447 0 12.387-6.5079 12.387-14.526s-5.5426-14.526-12.387-14.526z"
+        inkscape:export-ydpi="181.81"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3117"
+        sodipodi:rx="2.0543792"
+        sodipodi:ry="2.1827779"
+        style="stroke:#000000;stroke-width:0.9;fill:#000000"
+        sodipodi:type="arc"
+        d="m1137.6 435.79c0 1.2055-0.9198 2.1828-2.0544 2.1828s-2.0544-0.97726-2.0544-2.1828 0.9198-2.1828 2.0544-2.1828 2.0544 0.97726 2.0544 2.1828z"
+        inkscape:export-ydpi="181.81"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        sodipodi:cy="435.79166"
+        transform="matrix(1.5882 0 0 1.5882 -639.69 -223.15)"
+        inkscape:export-xdpi="181.81"
+        sodipodi:cx="1135.5581"
+    />
+    <path
+        id="path3119"
+        style="stroke:#000000;stroke-width:.44523;fill:#d9bb7a"
+        d="m1171.6 467.86s-5.9882 1.0177-12.833 1.0177-7.8453-0.0615-11.954-1.0177c0-8.0181 5.5487-14.518 12.394-14.518 6.8447 0 11.682 6.5316 12.394 14.518z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="sscss"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3121"
+        sodipodi:rx="2.0543792"
+        sodipodi:ry="2.1827779"
+        style="stroke:#000000;stroke-width:0.9;fill:#000000"
+        sodipodi:cy="435.79166"
+        sodipodi:type="arc"
+        d="m1137.6 435.79c0 1.2055-0.9198 2.1828-2.0544 2.1828s-2.0544-0.97726-2.0544-2.1828 0.9198-2.1828 2.0544-2.1828 2.0544 0.97726 2.0544 2.1828z"
+        inkscape:export-ydpi="181.81"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        transform="matrix(1.5882 0 0 1.5882 -657.79 -218.66)"
+        inkscape:export-xdpi="181.81"
+        sodipodi:cx="1135.5581"
+    />
+    <path
+        id="path3123"
+        style="stroke:#000000;stroke-width:.44523;fill:#d9bb7a"
+        d="m1152 469.32c-2.0352 7.5538-20.641 4.5164-24.382 3.9714 0.15-8.0167 5.5605-14.118 12.394-14.518 7.9273-0.46394 13.298 9.9854 11.988 10.547z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="ccsc"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3125"
+        style="stroke:#000000;stroke-width:1px;fill:none"
+        d="m1162.1 504.78c14.385 34.812 58.61-7.4447 78.767 9.6528"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="cc"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3218"
+        style="stroke:#000000;stroke-width:.67760px;fill:#d9bb7a"
+        d="m943.03 512.6c-43.33-128.2-149.09-232.05-294.28-304.43-2.9064-1.4489 68.994 53.658 18.403 80.996 43.694-6.0309 91.075 34.494 70.366 65.003 11.129-10.546 87.088 17.161 59.969 60.882 50.055-16.409 78.844 44.402 59.701 61.067 10.15-7.7338 69.551 16.411 69.139 42.443z"
+        inkscape:export-ydpi="181.81"
+        inkscape:transform-center-x="144.65764"
+        inkscape:transform-center-y="-158.91354"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+        sodipodi:nodetypes="cccccccc"
+    />
+    <path
+        id="path3220"
+        style="stroke:#000000;stroke-width:1.0929;fill:#d9bb7a"
+        d="m726.32 647.87c-14.342 5.1868-36.635 20.792-42.632 33.548 20.172-18.627 54.453-27.112 52.816-22.869-22.703 17.88-36.265 35.286-31.082 30.942 13.336-14.626 56.653-38.669 99.024-39.018 10.095-0.0831 2.5266-14.542-2.2477-19.406 6.6632-21.289 9.8486-32.286 1.0918-54.377-10.939-18.418-78.93-93.412-108.55-72.125-24.022 29.852 58.148 120.69 71.568 112.22z"
+        inkscape:export-ydpi="181.81"
+        inkscape:transform-center-x="-15.097495"
+        inkscape:transform-center-y="104.24636"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+        sodipodi:nodetypes="ccccsccccc"
+    />
+    <path
+        id="path3147"
+        style="fill-rule:evenodd;fill:#000000"
+        d="m859.94 451.47c10.537 20.425 17.952 20.561 21.656 44.062 5.7671 3.4752 9.1077 0.90754 10.75-5.875-0.2401-20.664-20.712-26.131-32.406-38.188zm45.562 5.0312c2.1856 17.03 7.3349 18.991 3.9375 36.438 3.1623 3.9119 6.1785 2.9681 9.0625-1.375 5.1052-14.57-7.8659-23.613-13-35.062zm28 8c2.1856 17.03 7.3349 18.991 3.9375 36.438 3.1623 3.9119 6.1785 2.9681 9.0625-1.375 5.1052-14.57-7.8659-23.613-13-35.062zm-113.66 6.5c17.69 14.672 24.55 11.916 37.156 32.094 6.6673 0.94096 8.7369-2.7407 7.5938-9.625-8.308-18.922-29.27-15.951-44.75-22.469zm148.44 7.6875c-4.0691 11.634-1.3693 14.548-9.1562 24.656 0.773 3.5273 2.9718 3.8925 6.2188 2.0312 7.9588-7.7124 2.554-17.688 2.9374-26.688zm16 8c-4.0691 11.634-1.3693 14.548-9.1562 24.656 0.773 3.5273 2.9718 3.8925 6.2188 2.0312 7.9588-7.7124 2.554-17.688 2.9374-26.688zm20 4c-4.0691 11.634-1.3692 14.548-9.1562 24.656 0.7731 3.5273 2.9718 3.8925 6.2188 2.0312 7.9587-7.7124 2.554-17.688 2.9374-26.688zm123.44 1.8125c-5.6074 0.24822-11.353 2.9426-16.969 3.3438 12.022 2.7207 14.635-0.27545 25.562 6.3125 3.4166-1.169 3.4994-3.4231 1.2813-6.4375-3.2126-2.6366-6.5106-3.3677-9.875-3.2188zm-318.03 6.5625c13.122 8.0372 17.41 5.5481 27.688 17.719 4.5082-0.0119 5.5388-2.6404 4.125-7.0938-7.3094-11.748-20.932-7.7809-31.812-10.625zm214.59 3.625c-4.0691 11.634-1.3692 14.548-9.1562 24.656 0.7731 3.5273 2.9717 3.8925 6.2188 2.0312 7.9587-7.7124 2.554-17.688 2.9374-26.688zm85.5 6.0625c9.0354 8.3834 12.789 7.1011 18.938 18.281 3.5421 0.70243 4.7819-1.2171 4.375-4.9375-3.8848-10.379-15.218-9.3923-23.313-13.344zm-65.5 1.9375c-4.0691 11.634-1.3692 14.548-9.1562 24.656 0.7731 3.5273 2.9717 3.8925 6.2188 2.0312 7.9587-7.7124 2.554-17.688 2.9374-26.688zm-246.59 0.375c13.122 8.0372 17.41 5.5481 27.688 17.719 6.7585-1.4658 6.1594-4.1625 4.125-7.0938-7.3094-11.748-20.932-7.7809-31.812-10.625zm303.34 3.5c2.0971 12.146 5.863 13.382 3.9688 26 2.3897 2.7072 4.5354 1.9545 6.4688-1.25 3.2083-10.608-6.3994-16.698-10.438-24.75zm-36.75 0.125c-4.0691 11.634-1.3692 14.548-9.1562 24.656 0.7731 3.5273 2.9717 3.8925 6.2188 2.0312 7.9587-7.7124 2.554-17.688 2.9374-26.688zm16.75 3.875c2.0971 12.146 5.863 13.382 3.9688 26 2.3897 2.7072 4.5354 1.9545 6.4688-1.25 3.2083-10.608-6.3994-16.698-10.438-24.75zm-299.34 8.5c13.122 8.0372 17.41 5.5481 27.688 17.719 7.6324-2.3634 4.9497-4.7303 4.125-7.0938-7.3094-11.748-20.932-7.7809-31.812-10.625zm-6.6875 22.781c11.064 6.7767 14.678 4.6757 23.344 14.938 5.8267-0.65871 6.3778-2.8454 3.4687-6-6.163-9.9054-17.638-6.5394-26.812-8.9375zm-8.78 17.66c9.8292 6.0204 13.051 4.1647 20.75 13.281 5.1763-0.58519 5.647-2.5099 3.0625-5.3125-5.4752-8.7999-15.662-5.8383-23.812-7.9688zm-12 16c9.8292 6.0204 13.051 4.1647 20.75 13.281 5.1763-0.58519 5.647-2.5099 3.0625-5.3125-5.4752-8.7999-15.662-5.8383-23.812-7.9688zm-7.75 18.219c8.1829 5.012 10.841 3.473 17.25 11.062 4.3093-0.48717 4.714-2.1044 2.5625-4.4375-4.5581-7.3259-13.028-4.8514-19.812-6.625zm-12 12c8.1829 5.012 10.841 3.473 17.25 11.062 4.3093-0.48717 4.714-2.1044 2.5625-4.4375-4.5581-7.3259-13.028-4.8514-19.812-6.625zm-12 10.906c8.1829 5.012 10.841 3.4417 17.25 11.031 4.3093-0.48717 4.714-2.0731 2.5625-4.4062-4.5581-7.3259-13.028-4.8514-19.812-6.625zm-9.3125 8.5625c6.5365 4.0036 8.6617 2.75 13.781 8.8125 3.4423-0.38915 3.7812-1.6676 2.0626-3.5312-3.6411-5.8519-10.424-3.8645-15.844-5.2812zm-12 4c6.5365 4.0035 8.6617 2.75 13.781 8.8125 3.4422-0.38915 3.7812-1.6676 2.0626-3.5312-3.6411-5.8519-10.424-3.8645-15.844-5.2812zm-100.56 2.75c2.5284 4.608 4.2345 4.5861 5.2187 9.9375 2.1816 0.93996 2.795 0.28813 2.4063-1.4062-0.1757-4.7228-4.8809-5.8432-7.625-8.5312zm88.562 1.25c6.5365 4.0035 8.6617 2.75 13.781 8.8125 3.4422-0.38915 3.7812-1.6676 2.0626-3.5312-3.6411-5.8519-10.424-3.8645-15.844-5.2812zm-75.781 2.0938c2.5283 4.608 4.2032 4.5861 5.1874 9.9375 2.1816 0.93996 2.8262 0.28813 2.4376-1.4062-0.1758-4.7228-4.881-5.8432-7.625-8.5312zm55.656 1.875c4.3665 4.663 6.3525 4.121 9.125 10.125 2.8521 0.44884 3.4062-0.49725 2.4375-2.375-1.631-5.5077-7.5209-5.4126-11.562-7.75zm8.125 0.0312c6.5365 4.0035 8.6617 2.75 13.781 8.8125 3.4423-0.38915 3.7812-1.6676 2.0626-3.5312-3.6411-5.8519-10.424-3.8645-15.844-5.2812zm-19.031 1.0625c4.3665 4.663 6.3524 4.1523 9.125 10.156 2.8521 0.44884 3.4061-0.5285 2.4374-2.4062-1.6311-5.5077-7.5209-5.4126-11.562-7.75zm-31.406 0.34375c2.5284 4.608 4.2033 4.6174 5.1875 9.9688 2.1816 0.93996 2.8262 0.28813 2.4375-1.4062-0.1757-4.7228-4.8809-5.8745-7.625-8.5625zm12.531 0.5625c2.5282 4.608 4.2345 4.5861 5.2187 9.9375 2.1815 0.93996 2.8262 0.28813 2.4375-1.4062-0.1757-4.7228-4.9122-5.8432-7.6562-8.5312zm12 0c2.5282 4.608 4.2345 4.5861 5.2187 9.9375 2.1815 0.93996 2.8262 0.28813 2.4375-1.4062-0.1757-4.7228-4.9122-5.8432-7.6562-8.5312z"
+        inkscape:export-ydpi="181"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181"
+    />
+    <path
+        id="path3141"
+        style="stroke:#000000;stroke-width:.67760;fill:#d9bb7a"
+        d="m1147.4 522.23c-0.6401 1.2393-22.14 21.029-23.911 22.167-5.9588 5.282-11.462 9.5965-19.336 14.096-36.353 12.674-77.573 12.37-101.06 3.8576-58.464 69.696-159.09 45.793-215.85 75.313l-16.825-36.911c24.811-32.738 27.188-55.655 64.152-88.566 86.548-70.072 198.34 45.771 276.66 18.358 3.666 1.7846 22.586-17.517 21.394-20.662"
+        inkscape:export-ydpi="181.81"
+        inkscape:transform-center-x="-308.44927"
+        inkscape:transform-center-y="-62.684804"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+        sodipodi:nodetypes="ccccccccc"
+    />
+    <path
+        id="path3103"
+        style="stroke:#000000;stroke-width:.67760;fill:#d9bb7a"
+        d="m790.12 635.06c-25.01 31.766-89.866 36.567-116.66 37.857-66.606 3.2057-129.58-41.095-197.66-28.452-54.278 10.08-78.565 68.438-125.66 89.957-37.877 15.003-128.12 30.015-199.69 29.419 43.299 0.18831 159.89-20.052 198.54-36.398 47.688-20.171 68.54-82.329 122.43-94.305 67.594-15.021 132.08 27.046 198.54 21.508 27.887-2.324 55.354-10.774 77.611-26.579 4.3895-4.35 22.257-27.098 25.81-31.106"
+        inkscape:export-ydpi="181.81"
+        inkscape:transform-center-x="-308.44927"
+        inkscape:transform-center-y="-62.684804"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+        sodipodi:nodetypes="cssccssscc"
+    />
+    <path
+        id="path3143"
+        style="stroke:#000000;stroke-width:.67760px;fill:#d9bb7a"
+        d="m1000.6 528.68c27.601-120.58 143.42-234.17 286.79-310.09 2.87-1.5196-75.761 54.993-51.961 96.981-40.012-38.073-62.759 20.816-68.753 66.706-10.031-42.675-62.371 1.6351-58.461 62.332-14.929-49.405-68.65 3.6865-58.188 62.51-10.336-7.483-33.583 2.5494-32.534 28.564l-17.64 24.284c-2.3053-10.663-13.402-22.127 0.74469-31.291z"
+        inkscape:export-ydpi="181.81"
+        inkscape:transform-center-x="-147.80006"
+        inkscape:transform-center-y="-149.57571"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+        sodipodi:nodetypes="ccccccccc"
+    />
+    <path
+        id="path3222"
+        style="stroke:#000000;stroke-width:1.0929;fill:#d9bb7a"
+        d="m879 656.06c15.602 3.0168 65.521 61.66 63.066 60.979-15.705-16.75-53.284-40.799-52.009-35.099 10.99 10.574 25.003 33.901 25.291 47.993-10.846-25.224-38.708-46.925-38.939-42.383 13.462 25.571 18.767 46.99 15.8 40.912-6.2303-18.788-36.014-58.376-74.576-75.937-9.1877-4.184 3.6099-14.312 9.9502-16.812 6.1326-12.006 13.779-11.545 17.663-19.136-1.8232-31.425 141.15-156.22 130.11-43.38-38.674 56.628-93.679 47.437-98.889 70.538-5.1767 6.8062-0.8701 9.3635 2.5342 12.325z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="ccccccsccccc"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+    <path
+        id="path3224"
+        style="stroke:#000000;stroke-width:.67760;fill:#d9bb7a"
+        d="m996.32 614.15c17.472 9.3782 31.102 36.08 29.422 34.329-7.1891-12.287-26.597-31.997-26.611-28.376 5.1887 7.9049 10.45 23.935 8.6843 32.494-3.0853-16.741-16.943-33.694-17.707-30.98 4.6191 17.311 4.8788 30.989 3.9216 26.907-1.1809-12.215-7.6564-33.697-28.552-49.62-4.9784-3.7937 7.7303-5.5832 8.1647-6.2219 2.6852-48.181 72.563-88.176 62.891-32.302-4.1715 24.097-35.176 30.193-40.792 53.494z"
+        inkscape:export-ydpi="181.81"
+        sodipodi:nodetypes="ccccccscscc"
+        inkscape:export-filename="C:\Documents and Settings\ALFREDO\Escritorio\dragon.png"
+        inkscape:connector-curvature="0"
+        inkscape:export-xdpi="181.81"
+    />
+  </g
+  >
+  <metadata
+      id="metadata166"
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

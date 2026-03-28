@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320">
+  <defs>
+    <linearGradient id="coverL" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF6B6B"/>
+      <stop offset="100%" stop-color="#E55555"/>
+    </linearGradient>
+    <linearGradient id="coverR" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4ECDC4"/>
+      <stop offset="100%" stop-color="#3BB8B0"/>
+    </linearGradient>
+    <linearGradient id="pageL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFF9F0"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <linearGradient id="pageR" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#FFF9F0"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0.5" y1="1" x2="0.5" y2="0">
+      <stop offset="0%" stop-color="#FFE66D" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#FFE66D" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+  <ellipse cx="200" cy="280" rx="140" ry="20" fill="#FFE66D" opacity="0.25"/>
+  <g filter="url(#shadow)">
+    <path d="M30 60 L30 260 Q30 270 40 268 L190 240 Q200 238 200 230 L200 50 Q200 42 190 44 L40 56 Q30 58 30 60Z" fill="url(#coverL)"/>
+    <path d="M370 60 L370 260 Q370 270 360 268 L210 240 Q200 238 200 230 L200 50 Q200 42 210 44 L360 56 Q370 58 370 60Z" fill="url(#coverR)"/>
+    <path d="M45 68 L45 252 L188 232 L188 52Z" fill="url(#pageL)"/>
+    <path d="M355 68 L355 252 L212 232 L212 52Z" fill="url(#pageR)"/>
+    <path d="M200 50 L200 235" stroke="#E8E8F0" stroke-width="2"/>
+  </g>
+  <g opacity="0.3">
+    <line x1="65" y1="90" x2="170" y2="78" stroke="#DDCCBB" stroke-width="1.5"/>
+    <line x1="65" y1="110" x2="170" y2="98" stroke="#DDCCBB" stroke-width="1.5"/>
+    <line x1="65" y1="130" x2="150" y2="120" stroke="#DDCCBB" stroke-width="1.5"/>
+    <line x1="65" y1="160" x2="170" y2="148" stroke="#DDCCBB" stroke-width="1.5"/>
+    <line x1="65" y1="180" x2="160" y2="170" stroke="#DDCCBB" stroke-width="1.5"/>
+    <line x1="230" y1="78" x2="335" y2="90" stroke="#DDCCBB" stroke-width="1.5"/>
+    <line x1="230" y1="98" x2="335" y2="110" stroke="#DDCCBB" stroke-width="1.5"/>
+    <line x1="230" y1="120" x2="320" y2="130" stroke="#DDCCBB" stroke-width="1.5"/>
+    <line x1="230" y1="148" x2="335" y2="160" stroke="#DDCCBB" stroke-width="1.5"/>
+    <line x1="230" y1="170" x2="325" y2="180" stroke="#DDCCBB" stroke-width="1.5"/>
+  </g>
+  <ellipse cx="200" cy="140" rx="100" ry="120" fill="url(#glow)"/>
+  <g fill="#FFE66D">
+    <polygon points="160,30 163,40 173,40 165,46 168,56 160,50 152,56 155,46 147,40 157,40" opacity="0.9"/>
+    <polygon points="260,20 262,27 269,27 263,31 265,38 260,34 255,38 257,31 251,27 258,27" opacity="0.7"/>
+    <polygon points="130,15 132,22 139,22 133,26 135,33 130,29 125,33 127,26 121,22 128,22" opacity="0.6"/>
+    <polygon points="300,45 302,50 307,50 303,53 304,58 300,55 296,58 297,53 293,50 298,50" opacity="0.5"/>
+    <polygon points="200,5 202,12 209,12 203,16 205,23 200,19 195,23 197,16 191,12 198,12" opacity="0.8"/>
+  </g>
+  <g fill="#A855F7" opacity="0.6">
+    <circle cx="145" cy="45" r="3"/>
+    <circle cx="270" cy="35" r="2.5"/>
+    <circle cx="185" cy="12" r="2"/>
+    <circle cx="230" cy="8" r="2"/>
+    <circle cx="310" cy="55" r="2"/>
+  </g>
+</svg>

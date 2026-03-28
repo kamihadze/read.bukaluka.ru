@@ -1,0 +1,20 @@
+:root {
+  --font: 'Space Grotesk', system-ui, sans-serif;
+  --font-display: 'Unbounded', system-ui, sans-serif;
+  --c-dark: #0F1923;
+  --c-dark-lighter: #1A2836;
+  --c-dark-card: #1E2D3D;
+  --c-gold: #D4A853;
+  --c-gold-dim: rgba(212, 168, 83, 0.15);
+  --c-text-on-dark: #C8D6E5;
+  --c-text-on-dark-muted: #7F8C9B;
+  --c-white: #FAFBFC;
+  --c-light: #F2F4F7;
+  --c-text: #4A5568;
+  --c-text-dark: #1A202C;
+  --c-border: #E2E8F0;
+  --radius: 0.75rem;
+  --radius-lg: 1.25rem;
+  --container: 1100px;
+  --ease: cubic-bezier(0.16, 1, 0.3, 1);
+}
