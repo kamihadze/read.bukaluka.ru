@@ -1,5 +1,6 @@
 .faq-section {
   padding: 80px 0;
+  background: var(--c-dark);
 }
 
 .faq-header {
@@ -11,11 +12,12 @@
   font-size: 32px;
   font-weight: 800;
   margin-bottom: 12px;
+  color: var(--c-text-on-dark);
 }
 
 .faq-header p {
   font-size: 16px;
-  color: #777;
+  color: var(--c-text-on-dark-muted);
 }
 
 .faq-list {
@@ -24,7 +26,7 @@
 }
 
 .faq-item {
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .faq-question {
@@ -39,14 +41,14 @@
   font-family: inherit;
   font-size: 17px;
   font-weight: 600;
-  color: #333;
+  color: var(--c-text-on-dark);
   text-align: left;
   cursor: pointer;
   transition: color 0.3s ease;
 }
 
 .faq-question:hover {
-  color: #555;
+  color: var(--c-gold);
 }
 
 .faq-icon {
@@ -61,7 +63,7 @@
 .faq-icon::after {
   content: '';
   position: absolute;
-  background: #999;
+  background: var(--c-text-on-dark-muted);
   border-radius: 2px;
   transition: transform 0.3s ease;
 }
@@ -94,7 +96,7 @@
   padding: 0 0 20px;
   font-size: 15px;
   line-height: 1.7;
-  color: #666;
+  color: var(--c-text-on-dark-muted);
 }
 
 .faq-item.open .faq-answer {
