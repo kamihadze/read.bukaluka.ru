@@ -1,0 +1,66 @@
+.section-satellites {
+  padding: 60px 0;
+  background: #F5F5F5;
+}
+
+.satellites-header {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 32px;
+  color: #333;
+}
+
+.satellites-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.satellite-card {
+  display: block;
+  padding: 24px;
+  background: #fff;
+  border-radius: 12px;
+  text-decoration: none;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid #eee;
+}
+
+.satellite-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+.satellite-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.satellite-desc {
+  font-size: 14px;
+  color: #777;
+  line-height: 1.5;
+}
+
+@media (max-width: 768px) {
+  .satellites-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .section-satellites {
+    padding: 40px 0;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .satellites-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
