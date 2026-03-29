@@ -117,6 +117,7 @@
     })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=108283470', 'ym');
     ym(108283470, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
   </script>
+  <link rel="stylesheet" href="https://smm.kamihadze.ru/static/news-widget.css">
 </head>
 <body>
   <noscript><div><img src="https://mc.yandex.ru/watch/108283470" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
@@ -342,6 +343,13 @@
     </div>
   </section>
 
+  <section class="section-news" style="padding:4rem 0">
+    <div class="container">
+      <div class="satellites-header">Новости и статьи</div>
+      <div id="smm-news" data-site="read" data-limit="6"></div>
+    </div>
+  </section>
+
   <section class="section-satellites">
     <div class="container">
       <div class="satellites-header">Другие направления БукаЛука</div>
@@ -394,5 +402,6 @@
   </footer>
 
   <script type="module" src="/src/main.ts"></script>
+  <script src="https://smm.kamihadze.ru/static/news-widget.js"></script>
 </body>
 </html>
